@@ -8,5 +8,9 @@ author_profile: false
 My Summer Project
 
 Some **important** info that I want to *emphasize* and this is ***really important***.
+
 ______
+
 More text
+
+# What if Header is After Some Text?
