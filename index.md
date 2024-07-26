@@ -21,7 +21,7 @@ We also want to show an image of quantum
 And another image that will be linked
 [![Quantum computer](https://upload.wikimedia.org/wikipedia/commons/e/ee/Simplified_scale_model_of_the_quantum_computing_demonstrator_housed_in_two_19-inch_racks_with_major_components_labeled.png)](mathquantum.um.edu)
 
-Here's a simple footnote,[^1] and here's a longer one[^2] and[^3].
+Here's a simple footnote,[^1] and here's a longer one[^2],[^3].
 
 [^1]: This is the first footnote.
 
@@ -32,6 +32,7 @@ Here's a simple footnote,[^1] and here's a longer one[^2] and[^3].
     `{ my code }`
 
     Add as many paragraphs as you like.
+    
 [^3]: My third ref.
 
 [^4]: My fourth ref.
