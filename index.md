@@ -6,6 +6,6 @@ layout: single
 author_profile: false
 ---
 
-# My Summer Project
+## My Summer Project
 
-Some **important** info that I want to *emphasize* and this is ***really important***
+Some **important** info that I want to *emphasize* and this is ***really important***.
