@@ -5,8 +5,8 @@
 layout: single
 author_profile: false
 ---
-# Summer Project
-
-## My Summer Project
+My Summer Project
 
 Some **important** info that I want to *emphasize* and this is ***really important***.
+______
+More text
