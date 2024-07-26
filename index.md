@@ -37,6 +37,6 @@ And finally, we want to embed a video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RbbQl2sU-ag?si=NBh8Ymqbjk6Kuqv-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 We finally want to close our text and say "bye" 👋🚪
-Can we add math? $\sqrt{3x-1}+(1+x)^2$
+Can we add math? \\(\sqrt{3x-1}+(1+x)^2$\\)
 
 We also want to add some references, beforehand.
